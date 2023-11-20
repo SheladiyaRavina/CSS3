@@ -1,0 +1,46 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-color: rgb(201, 197, 195);
+}
+img{
+    height: 450px;
+}
+p i{
+    color:red;
+    font-size:18px;
+}
+p{
+    text-align:justify;
+    font-size:25px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+
+}
+.pramukh{
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Lora', serif;
+}
+.swami{
+    color:brown;
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Signika Negative';
+}
+#swami{
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Signika Negative';
+}
+a{
+    font-size: 28px;
+    text-align: center;
+    font-family: 'remixicon';
+    color:brown;
+}
+i{
+    font-size: 30px;
+    color:rgb(83, 74, 74);
+}
